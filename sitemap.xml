@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2015/10/03/learn-markdow/</loc>
+    <lastmod>2015-10-03T03:14:03.510Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/10/01/My-2nd-Post/</loc>
     <lastmod>2015-09-30T17:50:01.728Z</lastmod>
   </url>
